@@ -12,6 +12,6 @@ app.get('/', function (req, res) {
 
 });
 
-app.lien(8080, function () {
+app.lisen(8080, function () {
   console.log('Server listening on port 8080...');
 });
